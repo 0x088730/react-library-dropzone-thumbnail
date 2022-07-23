@@ -24,3 +24,5 @@ Install the dependencies and devDependencies and start the server.
 cd react-dropzone-thumbnail
 npm i
 npm run start
+
+<a href="https://react-ts-lguucj.stackblitz.io">Demo</a>

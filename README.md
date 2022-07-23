@@ -1,4 +1,5 @@
 ### Prajwal-np
+
 ## React DropZone Thumbnail
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
@@ -14,8 +15,7 @@
 
 React Dropzone thumbnail is dropzone with thumbnail in react.
 
-## For demo [Demo](https://react-ts-lguucj.stackblitz.io)
-
+## For [Demo](https://react-ts-lguucj.stackblitz.io)
 
 ## Installation
 
@@ -27,3 +27,4 @@ Install the dependencies and devDependencies and start the server.
 cd react-dropzone-thumbnail
 npm i
 npm run start
+```
